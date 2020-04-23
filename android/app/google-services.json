@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534437843829",
+    "firebase_url": "https://box-counter-e89d3.firebaseio.com",
+    "project_id": "box-counter-e89d3",
+    "storage_bucket": "box-counter-e89d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534437843829:android:6539392c4e2635d407793c",
+        "android_client_info": {
+          "package_name": "com.jonah.boxcounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534437843829-nnvjce1bruf4i5e55uvvs77oh74tb576.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNfroD6N4uV_nFPwaXT_bF9BGqVNdBEyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534437843829-nnvjce1bruf4i5e55uvvs77oh74tb576.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
